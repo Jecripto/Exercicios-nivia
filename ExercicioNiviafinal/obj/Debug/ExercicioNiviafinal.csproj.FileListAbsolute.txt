@@ -1,0 +1,15 @@
+C:\Users\2prot\Área de Trabalho\ExercicioNiviafinal\bin\Debug\ExercicioNiviafinal.exe.config
+C:\Users\2prot\Área de Trabalho\ExercicioNiviafinal\bin\Debug\ExercicioNiviafinal.exe
+C:\Users\2prot\Área de Trabalho\ExercicioNiviafinal\bin\Debug\ExercicioNiviafinal.pdb
+C:\Users\2prot\Área de Trabalho\ExercicioNiviafinal\obj\Debug\ExercicioNiviafinal.csproj.AssemblyReference.cache
+C:\Users\2prot\Área de Trabalho\ExercicioNiviafinal\obj\Debug\ExercicioNiviafinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\2prot\Área de Trabalho\ExercicioNiviafinal\obj\Debug\ExercicioNiviafinal.Form1.resources
+C:\Users\2prot\Área de Trabalho\ExercicioNiviafinal\obj\Debug\ExercicioNiviafinal.Formposto.resources
+C:\Users\2prot\Área de Trabalho\ExercicioNiviafinal\obj\Debug\ExercicioNiviafinal.Properties.Resources.resources
+C:\Users\2prot\Área de Trabalho\ExercicioNiviafinal\obj\Debug\ExercicioNiviafinal.csproj.GenerateResource.cache
+C:\Users\2prot\Área de Trabalho\ExercicioNiviafinal\obj\Debug\ExercicioNiviafinal.csproj.CoreCompileInputs.cache
+C:\Users\2prot\Área de Trabalho\ExercicioNiviafinal\obj\Debug\ExercicioNiviafinal.exe
+C:\Users\2prot\Área de Trabalho\ExercicioNiviafinal\obj\Debug\ExercicioNiviafinal.pdb
+C:\Users\2prot\Área de Trabalho\ExercicioNiviafinal\obj\Debug\ExercicioNiviafinal.Formloop1.resources
+C:\Users\2prot\Área de Trabalho\ExercicioNiviafinal\obj\Debug\ExercicioNiviafinal.Formloop2.resources
+C:\Users\2prot\Área de Trabalho\ExercicioNiviafinal\obj\Debug\ExercicioNiviafinal.Formloop3.resources
